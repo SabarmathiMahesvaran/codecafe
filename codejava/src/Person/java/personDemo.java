@@ -29,7 +29,7 @@ public class personDemo {
 	    calc.CalculateTax(person);
 	    System.out.println("After the calculation of the tax");
 	    System.out.println(person);
-	    ob.close();
+	   ob.close();
 	    }
 
 }

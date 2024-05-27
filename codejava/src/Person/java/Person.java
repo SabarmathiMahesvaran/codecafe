@@ -48,7 +48,7 @@ public class Person {
         }
         public String toString()
         {
-        	return "person name="+ name +", age="+ age +", income=" + income +", gender=" + gender;
+        	return "person name="+ name +", age="+ age +", income=" + income +", gender=" + gender+" Tax="+tax;
         }
 }
 
