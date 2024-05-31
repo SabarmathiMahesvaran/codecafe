@@ -25,8 +25,8 @@ public class bytesjava {
         double d=3232.4890757404556832743f;
         System.out.println("Enter the value float is:"+f);
         System.out.println("Enter the value double is:"+d);
-        boolean flag=false;
-        System.out.println("Enter the boolean value is:"+flag);
+        boolean B=false;
+        System.out.println("Enter the boolean value is:"+B);
 	}
 
 }
