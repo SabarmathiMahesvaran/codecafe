@@ -1,4 +1,6 @@
-package Thirdpackage;
+package ThirdPackage;
+
+import ThirdPackage.Class;
 
 public class PrivateDemo {
 

@@ -1,4 +1,4 @@
-package Thirdpackage;
+package ThirdPackage;
 
 public class Class {
 	//object is the static memory we can call anywhere in the class

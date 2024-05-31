@@ -1,4 +1,4 @@
-package SecondPackage;
+package secondPackage;
 
 import FirstPackage.Base;
 
