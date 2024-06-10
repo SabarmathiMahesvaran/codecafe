@@ -1,10 +1,10 @@
 package MutileveInheritance;
 
 public class RollsRoyce extends Car {
-	public RollsRoyce()
-	{
-		System.out.println("class RollsRoyce");
-	}
+	
+	  public RollsRoyce() { System.out.println("class RollsRoyce"); 
+	  }
+	 
 	public void Brand()
 	{
 		System.out.println("Brand:RollsRoyce");

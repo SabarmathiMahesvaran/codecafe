@@ -17,11 +17,11 @@ public class exception {
 		try
 		{
 			int c=a+b;
-			System.out.println("division:"+c);
+			System.out.println("Addition:"+c);
 		}
 		catch(ArithmeticException sk)
 		{
-		System.out.println("Please entry the positive numbers");
+		System.out.println("Please entry the positive numbers"+sk.getMessage());
 		System.out.println("NextLine");
 		}
 	}
